@@ -120,7 +120,7 @@ This project is licensed under the MIT License. See the [LICENSE](https://github
 For any questions or [inquiries](https://github.com/Nicztin/ing/blob/main/alldocs.md), feel free to contact us at:
 
 Email: nicztin@gmail.com
-GitHub: https://github.com/Nicztin/Nic
+GitHub: https://github.com/Nicztin/
 
 [![Gemma3](https://img.shields.io/badge/Watch%20on-YouTube-red?style=for-the-badge&logo=youtube)](https://youtu.be/L0f5EaOBfbA?si=Itc9Lj_a1868PWnc)
 [![Channel](https://img.shields.io/badge/Watch%20on-YouTube-red?style=for-the-badge&logo=youtube)]([https://youtu.be/yGbt7cjc744?si=DmpYjcpL9UxYqDwA](https://www.youtube.com/@Nicztining))
