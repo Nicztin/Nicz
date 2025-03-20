@@ -1,0 +1,15 @@
+# These are supported funding model platforms
+
+funding:
+  - type: "GitHub"
+    url: "https://github.com/sponsors/Nicztyn"
+  - type: "Patreon"
+    url: "https://www.patreon.com/Nicztyn"
+  - type: "Open Collective"
+    url: "https://opencollective.com/ne-atten"
+  - type: "Ko-fi"
+    url: "https://ko-fi.com/nicztyn"
+  - type: "Pinterest"
+    url: "https://www.pinterest.com/Nicztyn"
+  - type: "Facebook"
+    url: "https://www.facebook.com/Aiing.N/about_details"
