@@ -61,18 +61,20 @@ Welcome to the **Nicz** repository! This project is dedicated to creating a beau
    git clone https://github.com/Nicztin/Nicz
 
 Navigate to the project folder:
+
    cd nicz-website
 
 ## Setting Up Dependencies
 Since this project uses Bolt, ensure you have the required dependencies set up:
 
-1. Install Bolt if you haven't already: 
+Install Bolt if you haven't already: 
 
     npm install -g @bolt/cli
 
-2. Install the project dependencies:
+Install the project dependencies:
 
     npm install
+    
 ## Running the Development Server
 To view the website locally, run the following command:
 
